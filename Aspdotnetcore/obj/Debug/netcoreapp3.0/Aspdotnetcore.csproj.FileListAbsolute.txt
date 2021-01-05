@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.TagHelpers.input.cache
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.TagHelpers.output.cache
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.dll
+C:\Users\Admin\source\repos\DockerDemo\Aspdotnetcore\obj\Debug\netcoreapp3.0\Aspdotnetcore.pdb
